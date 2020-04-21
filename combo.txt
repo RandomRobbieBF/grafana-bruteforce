@@ -1,0 +1,5 @@
+admin:admin
+admin:admin123
+admin:admin$
+grafana:grafana
+devops:devops
