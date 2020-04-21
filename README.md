@@ -22,5 +22,7 @@ Use your own combo list.
 python3 grafana-brute.py -u http://localhost:3000 -f mycombo.txt
 ```
 
+Example
+---
 
 ![screenshot](https://github.com/RandomRobbieBF/grafana-bruteforce/raw/master/grafana.png "screenshot")
